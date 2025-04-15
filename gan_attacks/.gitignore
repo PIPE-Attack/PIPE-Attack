@@ -1,0 +1,16 @@
+**/__pycache__/
+
+
+attack_dataset/*/**
+!attack_dataset/**/*.txt
+VMI/*
+!VMI/**/*.py
+*.tar
+*.pth
+!**/*.sh
+**/attack_res/*
+**/target_model/**/*.jpeg
+**/target_model/**/*.csv
+
+**/*.png
+**/*.txt
